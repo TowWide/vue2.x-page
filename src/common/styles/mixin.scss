@@ -1,0 +1,16 @@
+@function bg-image($url) {
+  @return $url+"@2x.png";
+}
+
+@mixin bg($url) {
+  background-image: url($url+"@2x.png");
+}
+
+@media screen and( -webkit-min-device-pixel-ratio:3) and (min-device-pixel-ratio:3) {
+  @function bg-image($url) {
+    @return $url+"@3x.png";
+  }
+  @mixin bg($url) {
+    background-image: url($url+"@3x.png");
+  }
+}
