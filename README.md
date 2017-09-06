@@ -1,9 +1,9 @@
->  本项目是基于最新vue版本的项目，vue2 +vue-router2 + es6 +webpack 高仿饿了么app商家页面,是适合新手进阶的绝佳教程。
+>  本项目是基于最新vue版本的项目，vue2 +vue-router2 + es6 +webpack 高仿饿了么app商家页面
+>  是适合新手进阶的绝佳教程。
 
 ***
-
-> *喜欢的请star
-> *本项目需要clone到本地，并且有node运行环境
+>  * 喜欢的请star
+>  * 本项目需要clone到本地，并且有node运行环境
 
 ### 项目技术架构
 ***
