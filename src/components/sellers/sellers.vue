@@ -123,7 +123,7 @@ export default {
     }
 };
 </script>
-<style lang="scss" scoped>
+<style lang="scss">
 @import '../../common/styles/mixin.scss';
 .sellers {
     position: absolute;
